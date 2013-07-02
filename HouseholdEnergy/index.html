@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	
+		<meta charset="utf-8">
+	    <title>Circular heat chart example</title>
+	    <link rel="stylesheet" href="css/style.css">
+	    <link rel="stylesheet" href="css/svg.css">
+		<link rel="stylesheet" href="http://yandex.st/highlightjs/7.3/styles/default.min.css">
+		
+	</head>
+
+	<body>
+		<section>
+			<h1>Circular heat chart</h1>
+			<p>A circular heat chart displays up-to-date quantitative data as an array of circular segments, coloured according to value.</p>
+			<p>Hover mouse over chart to see any segment's energy useage which is proportional to cost.</p>
+			<p>This type of chart excels at visualizing and comparing cyclic data over regular intervals.</p>
+			
+			
+    		<h3>Household</h3>
+    		<div id="chart3"></div>
+			<div id="info"></div>
+			
+			
+    		
+			
+		</section>
+
+		<section>
+			<h3>Hot Tub</h3>
+			<div id="chart4"></div>
+			<div id="info4"></div>
+		</section>
+		
+		<section>
+			<h3>Fridge</h3>
+			<div id="chart5"></div>
+			<div id="info5"></div>
+		</section>
+		
+		<footer>
+			<p>Built with <a href="http://d3js.org">D3</a>. Chart development by <a href="http://prcweb.co.uk">Peter Cook</a>.
+			<br>Created by Po Liu on April 4, 2013.</p>
+		</footer>
+
+		<script src="http://d3js.org/d3.v3.min.js"></script>
+		<script src="js/circularHeatChart.js"></script>
+		
+		<script src="js/mainEnergy.js"></script>
+		<script src="js/hottubEnergy.js"></script>
+		<script src="js/fridgeEnergy.js"></script>
+		<script src="http://yandex.st/highlightjs/7.3/highlight.min.js"></script>
+		<script>hljs.initHighlightingOnLoad();</script>
+		
+		
+	</body>
+</html>
