@@ -1,6 +1,6 @@
-Programming-Problems
-====================
+Po's Programming Cookbook
+=========================
 
-Solutions of common algorithm questions that I have come across and implementations of useful APIs/libraries for future reference.
+Solutions to common algorithm questions that I have come across during development and implementations of useful APIs/libraries for future reference.
 
-Feel free to take and use for your projects. Send me a message to my Twitter account @poliu2s if your interested in chatting or have any questions.
+Feel free to take, modify, and use for your projects. Send me a message to my Twitter account @poliu2s if your interested in chatting or have any questions.
