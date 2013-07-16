@@ -1,4 +1,4 @@
-Po's Programming Cookbook
+Programming Cookbook
 =========================
 
 Solutions to common algorithm questions that I have come across during development and implementations of useful APIs/libraries for future reference.
