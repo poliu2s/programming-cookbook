@@ -33,6 +33,7 @@ def step():
 		return 1
 	return -1
 
+# Start with an ones matrix as an initial value
 
 matrix = []
 matrix.append(1)
